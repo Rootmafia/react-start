@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text Element adds the extraSmall modifier 1`] = `
+.c0 {
+  font-size: 1rem;
+  margin: 0;
+  font-size: 0.75rem;
+}
+
+<span
+  className="c0"
+>
+  Some Text
+</span>
+`;
+
+exports[`Text Element adds the fontWeightBold modifier 1`] = `
+.c0 {
+  font-size: 1rem;
+  margin: 0;
+}
+
+<span
+  className="c0"
+>
+  Some Text
+</span>
+`;
+
+exports[`Text Element adds the italic modifier 1`] = `
+.c0 {
+  font-size: 1rem;
+  margin: 0;
+}
+
+<span
+  className="c0"
+>
+  Some Text
+</span>
+`;
+
+exports[`Text Element adds the large modifier 1`] = `
+.c0 {
+  font-size: 1rem;
+  margin: 0;
+  font-size: 1.125rem;
+}
+
+<span
+  className="c0"
+>
+  Some Text
+</span>
+`;
+
+exports[`Text Element adds the small modifier 1`] = `
+.c0 {
+  font-size: 1rem;
+  margin: 0;
+  font-size: 0.875rem;
+}
+
+<span
+  className="c0"
+>
+  Some Text
+</span>
+`;
+
+exports[`Text Element renders correctly 1`] = `
+.c0 {
+  font-size: 1rem;
+  margin: 0;
+}
+
+<span
+  className="c0"
+>
+  Some Text
+</span>
+`;

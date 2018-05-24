@@ -1,3 +1,8 @@
 .babelrc
-lib
-CODE_OF_CONDUCT.md
+.eslintrc
+.github
+*.DS_Store
+*npm-debug.log
+*yarn-error.log
+coverage/
+lib/
