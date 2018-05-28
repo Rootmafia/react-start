@@ -27,6 +27,7 @@
   "license": "MIT",
   "dependencies": {
     "polished": "^1.8.1",
+    "react": "^16.4.0",
     "react-fontawesome": "^1.6.1",
     "styled-components": "^2.2.2",
     "styled-components-modifiers": "^1.0.1"
