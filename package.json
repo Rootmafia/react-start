@@ -1,7 +1,8 @@
 {
-  "name": "component-library-starter",
-  "version": "0.2.0",
-  "description": "a small starter for building a component library with Styled Components",
+  "author": "Roman Ramanouski <badmandoes@gmail.com> (https://github.com/Rootmafia)",
+  "name": "next-step-starter",
+  "version": "1.0.0-beta",
+  "description": "React components library",
   "main": "build/index.js",
   "directories": {
     "lib": "lib"
@@ -23,7 +24,6 @@
     "test:watchAll": "jest lib/** --watchAll",
     "test:coverage:report": "open ./coverage/lcov-report/index.html"
   },
-  "author": "Alan Smith <a.bax.smith@gmail.com> (https://github.com/alanbsmith)",
   "license": "MIT",
   "dependencies": {
     "polished": "^1.8.1",
